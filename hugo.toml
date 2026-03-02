@@ -1,0 +1,26 @@
+baseURL = 'https://hampcodes.github.io/'
+languageCode = 'es-es'
+title = 'hampcodes | Software & Tech'
+theme = 'mana'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Categorías"
+    url = "/categories/"
+    weight = 2
+  [[menu.main]]
+    name = "YouTube"
+    url = "https://youtube.com/@hampcode"
+    weight = 3
+
+[params]
+  description = "Blog oficial de Henry A. Mendoza Puerta (hampcode)"
+  author = "HAMP"
