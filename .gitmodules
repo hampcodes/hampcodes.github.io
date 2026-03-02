@@ -1,0 +1,3 @@
+[submodule "themes/mana"]
+	path = themes/mana
+	url = git@github.com:Livour/hugo-mana-theme.git
